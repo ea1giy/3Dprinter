@@ -1,0 +1,3 @@
+[submodule "BIGTREETECH-OCTOPUS-V1.0"]
+	path = BIGTREETECH-OCTOPUS-V1.0
+	url = git@github.com:bigtreetech/BIGTREETECH-OCTOPUS-V1.0.git
