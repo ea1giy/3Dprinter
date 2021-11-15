@@ -4,3 +4,6 @@
 [submodule "Marlin"]
 	path = Marlin
 	url = git@github.com:ea1giy/Marlin.git
+[submodule "MKS-TFT-Hardware"]
+	path = MKS-TFT-Hardware
+	url = git@github.com:makerbase-mks/MKS-TFT-Hardware.git
